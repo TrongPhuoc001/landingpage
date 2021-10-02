@@ -165,8 +165,8 @@ footer {
   padding-right: 0;
 }
 footer .row {
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 footer .map {
   display: flex;
@@ -177,6 +177,9 @@ footer .map {
   background-color: rgba(0, 0, 0, 0.3);
   padding-left: 1rem;
   padding-right: 1rem;
+}
+footer .row .col .icon{
+  width: 20px;
 }
 #end-span2 {
   float: right;
